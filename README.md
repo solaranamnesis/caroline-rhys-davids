@@ -23,7 +23,7 @@ English - PDF | Computer Modern | Coelacanth | Atkinson | Alegreya | Auriocus | 
 German - Plain Text  
 German - PDF  
 
-## Stories of the Buddha : Being Selections from the Jataka.
+## Stories of the Buddha: Being Selections from the Jataka.
 
 English - Plain Text  
 English - PDF | Computer Modern | Coelacanth | Atkinson | Alegreya | Auriocus | Kerkis | Artemisia | Custom01 | Custom02  
