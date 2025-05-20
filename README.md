@@ -9,6 +9,13 @@ English - PDF | Computer Modern | Coelacanth | Atkinson | Alegreya | Auriocus | 
 German - Plain Text  
 German - PDF  
 
+## Buddhism: Its Birth and Dispersal.
+
+English - Plain Text  
+English - PDF | Computer Modern | Coelacanth | Atkinson | Alegreya | Auriocus | Kerkis | Artemisia | Custom01 | Custom02  
+German - Plain Text  
+German - PDF  
+
 ## Gotama the Man.
 
 English - Plain Text  
