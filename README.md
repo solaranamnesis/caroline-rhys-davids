@@ -2,9 +2,9 @@
 
 Public Domain Works of Caroline Rhys Davids (1857–1942).
 
-## Buddhism: A Story of the Buddhist Norm.
+## Buddhism: A Study of the Buddhist Norm.
 
-English - Plain Text  
+[English - Plain Text](buddhism-study-buddhist-norm/full-text-english.md)  
 English - PDF | Computer Modern | Coelacanth | Atkinson | Alegreya | Auriocus | Kerkis | Artemisia | Custom01 | Custom02  
 German - Plain Text  
 German - PDF  
