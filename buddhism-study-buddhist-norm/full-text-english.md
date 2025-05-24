@@ -63,4 +63,6 @@ And that the Faith might be maintained, made writing of the Law in Books.
 
 There is no evidence in any portion of this literature either in Pitaka or Commentary, that this late recourse to writing was due to any mystery-mongering or esotericism. The Buddha, it is stated, said that his was not the hand of a teacher, closed now and again to withhold doctrines. The teaching was adapted to the listener: milk for babes, strong meat for those who were strong. But this was all.
 
+No one then who knew anything of these "memory-libraries," as a remarkable feature of past and present Indian culture, would judge the Pāli books to be late, and quasi-spurious documents because, as _written records_, they came into being more than four centuries after their adherents claim that they were compiled. It is the fact that there is no surviving tradition of the Buddhist Churches in India taking similar steps, when their existence was threatened, that has helped to throw doubt on the authenticity of the Pāli books as genuine North-East Indian compilations, put together some in the fourth, some in the third century BCE.
+
 ...
